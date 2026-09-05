@@ -1,47 +1,47 @@
 <div align="center">
 
-<!-- Real-time Typing Terminal -->
+<!-- Real-time Typing SVG Engine -->
 <a href="https://linkedin.com/in/bilalhaider-ds">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Bilal+Haider;BS+Statistics+%2B+Data+Science;Predictive+Tabular+ML+%26+Deep+Learning;Agentic+AI+Pipelines+%26+Full-Stack+Systems" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Bilal+Haider;BS+Statistics+%2B+Data+Science;Production+Tabular+ML+%26+Deep+Learning;Multimodal+GenAI+%26+Agentic+Architectures;Full-Stack+AI+Systems+Delivery" alt="Typing Banner" />
 </a>
 
 <p align="center">
-  <b>Final-Year Data Science Specialist & Applied ML Practitioner</b><br>
+  <b>Data Science Specialist & Applied Machine Learning Engineer</b><br>
   University of the Punjab, Quaid-e-Azam Campus, Lahore (2023–2027)<br>
-  <i>Grounding machine learning architectures in rigorous statistical inference, leakage-free validation, and scalable full-stack delivery.</i>
+  <i>Fusing classical statistical inference with modern deep learning and production full-stack AI orchestration.</i>
 </p>
 
-<!-- Social Connect Rails -->
+<!-- Live Telemetry Badges & Ingress -->
 <p align="center">
   <a href="https://linkedin.com/in/bilalhaider-ds">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/bilalhaider-ux">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0D1117?style=for-the-badge&logo=google-maps&logoColor=58A6FF" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=bilalhaider-ux&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-008080?style=flat-square&logo=google-maps&logoColor=white" alt="Lahore, Pakistan" />
 </p>
 
 </div>
 
 ---
 
-### 🧠 Architectural Moat & Engineering Focus
+### 🔬 Core Theoretical & Machine Learning Moat
 
-* **Statistical Inference & Signal Defense:** Parametric/non-parametric hypothesis testing, probability distributions, variance decomposition, and outlier isolation rooted in formal academic statistics.
-* **Leakage-Free Predictive ML:** GBDT architectures (LightGBM, CatBoost) engineered with strict Out-of-Time (OOT) splits, cost-matrix optimization, and calibrated decision boundaries.
-* **Generative AI & Multimodal Pipelines:** Document intelligence, multimodal reasoning via Google Gemini 2.5 Flash, RAG architectures, and agentic task orchestration.
-* **Full-Stack Engineering:** High-performance web applications built on Next.js (App Router), TypeScript, and Tailwind CSS, backed by FastAPI, Django, and PostgreSQL.
+* **Statistical Inference & Signal Defense:** Formal training in probability theory, parametric/non-parametric hypothesis testing, ANOVA, covariance decomposition, and outlier isolation (IQR/Z-score) to eliminate distribution drift.
+* **Leakage-Free Predictive ML:** GBDT architectures (LightGBM, CatBoost) with strictly bounded temporal horizons. Enforcing Out-of-Time (OOT) validation splits against lookahead bias and optimizing operational thresholds via Cost-Benefit Loss Matrices.
+* **Multimodal GenAI & Agentic Systems:** Document intelligence pipelines leveraging Google Gemini 2.5 Flash, structured Pydantic schema extraction, streaming response channels, and RAG architectures.
+* **Full-Stack Application Delivery:** Modern reactive clients with Next.js (App Router), React, and Tailwind CSS, backed by high-throughput endpoints via FastAPI, Django, Node.js, and PostgreSQL.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Interactive Technology Matrix
 
 <div align="center">
 
-<!-- Unified Interactive Skill Icons Matrix -->
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,r,postgres,supabase,nextjs,react,ts,js,fastapi,django,docker,linux,git,github,vscode&perline=9&theme=dark" alt="Tech Stack Matrix" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,r,postgres,supabase,nextjs,react,ts,js,fastapi,django,php,docker,linux,git,github,vscode&perline=10&theme=dark" alt="Technical Arsenal" />
 </a>
 
 </div>
@@ -49,48 +49,48 @@
 <br>
 
 <details>
-<summary><b>Detailed Technology & Framework Breakdown (Click to expand)</b></summary>
+<summary><b>Detailed Framework & Mathematical Breakdown (Click to Expand)</b></summary>
 <br>
 
-| Domain | Core Arsenal |
-| :--- | :--- |
-| **Statistical Modeling & ML** | Python, R, NumPy, Pandas, Polars, Scikit-Learn, SciPy, Statsmodels, LightGBM, CatBoost |
-| **Deep Learning & GenAI** | PyTorch, TensorFlow, Google Gemini API, LangChain, Hugging Face, Vector Stores (RAG) |
-| **Full-Stack & Backend** | Next.js (App Router), React, TypeScript, JavaScript, FastAPI, Django, Node.js, Tailwind CSS |
-| **Data Stores & Tooling** | PostgreSQL, Supabase, SQLite, Docker, Linux/Bash, Git, GitHub Actions, VS Code |
+| Layer | Tools & Libraries | Primary Engineering Focus |
+| :--- | :--- | :--- |
+| **Statistical Foundations** | `R`, `SciPy`, `Statsmodels`, `NumPy`, `Pandas`, `Polars` | Empirical distributions, hypothesis testing, correlation heatmaps, vectorization |
+| **Machine Learning** | `Scikit-Learn`, `LightGBM`, `CatBoost`, `XGBoost` | OOT validation pipelines, early stopping, Brier score calibration, cost matrix |
+| **Deep Learning & GenAI** | `PyTorch`, `TensorFlow`, `Gemini 2.5 API`, `LangChain`, `Hugging Face` | Multimodal document parsing, token streaming, state graphs, embeddings |
+| **Full-Stack & Backend** | `Next.js 14`, `React`, `TypeScript`, `JavaScript`, `FastAPI`, `Django`, `Node.js`, `PHP`, `PostgreSQL`, `Supabase` | RSC hydration, type-safe API proxies, relation schema design, indexing |
 
 </details>
 
 ---
 
-### 🚀 Flagship Engineered Repositories
+### 🚀 Flagship Engineered Systems
 
-| Repository | Domain | Tech Stack | Architectural Highlights |
+| System | Focus Domain | Stack | Production & Theoretical Highlights |
 | :--- | :--- | :--- | :--- |
-| **[DocAudit AI](https://github.com/bilalhaider-ux/doc-audit-ai)** | Generative AI / LegalTech | `Next.js` `TypeScript` `Gemini 2.5` | Multi-page document audit pipeline parsing complex financial/legal agreements via streaming tokens and structured JSON schema validation. |
-| **[FraudLens](https://github.com/bilalhaider-ux/fraudlens)** | Applied ML / FinTech | `Python` `Scikit-Learn` `GBDT` | Non-random Out-of-Time (OOT) validation framework preventing lookahead bias, tuned with custom false-positive/false-negative cost matrices. |
-| **[MediFlow HMS](https://github.com/bilalhaider-ux/mediflow-hms)** | HealthTech Infrastructure | `Node.js` `JavaScript` `PostgreSQL` | Relational clinical management system handling patient telemetry, admission workflows, and role-based records security. |
-| **[Trace The Ace](https://github.com/bilalhaider-ux/trace-the-ace-project)** | Algorithmic Core | `Python` `Statistical Testing` | Logic validation engine and empirical distribution simulation with deterministic state handling. |
+| **[DocAudit AI](https://github.com/bilalhaider-ux/doc-audit-ai)** | LegalTech / GenAI | `Next.js` `TypeScript` `Gemini 2.5` | High-accuracy legal & financial document audit engine; processes multi-page unstructured PDFs to stream risk factors with deterministic schema parsing. |
+| **[FraudLens](https://github.com/bilalhaider-ux/fraudlens)** | FinTech / Tabular ML | `Python` `Scikit-Learn` `LightGBM` | Financial anomaly detection engine built with strict temporal splits (OOT) to eliminate lookahead bias and decision thresholds tuned against commercial fraud costs. |
+| **[MediFlow HMS](https://github.com/bilalhaider-ux/mediflow-hms)** | HealthTech Core | `Node.js` `JavaScript` `PostgreSQL` | Relational clinical management system handling transactional records, role-based access controls, and hospital telemetry. |
+| **[Trace The Ace](https://github.com/bilalhaider-ux/trace-the-ace-project)** | Algorithmic Simulation | `Python` `Statistical Testing` | Logic testing framework and empirical probability distribution simulator with zero-leakage state machines. |
 
 ---
 
-### 📈 Activity & Engineering Telemetry
+### 📈 Activity & Contribution Velocity
 
 <div align="center">
 
-<!-- Real-time Dynamic Activity Frequency Graph (Zero Rate-Limit Vulnerability) -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalhaider-ux&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Wave Graph" />
+<!-- Non-Fragile Dynamic Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalhaider-ux&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=38bdf8" alt="Activity Wave" />
 
 <br><br>
 
-<!-- Dynamic Streak Counter -->
-<img src="https://streak-stats.demolab.com/?user=bilalhaider-ux&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<!-- Dynamic Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=bilalhaider-ux&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Commit Streak" />
 
 </div>
 
 ---
 
-### 🐍 Automated Contribution Pipeline
+### 🐍 Contribution Activity Matrix
 
 <div align="center">
   <picture>
@@ -103,5 +103,5 @@
 ---
 
 <div align="center">
-  <sub>Engineered by <b>Bilal Haider</b> • Built with precision in Lahore, Pakistan</sub>
+  <sub>Engineered by <b>Bilal Haider</b> • Grounded in Deterministic Machine Learning & Statistical Inference</sub>
 </div>
